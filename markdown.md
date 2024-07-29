@@ -4,8 +4,8 @@
 VSCodeに拡張機能として入れて頂いていますが、なんとなくで使用していて使いこなしてる感じがしなかったので調査してみました。
 
 ### 参考にした資料
-[Github Copilot拡張](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
-[Github Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
+[Github Copilot拡張](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)  
+[Github Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)  
 
 
 
