@@ -6,6 +6,8 @@ VSCodeに拡張機能として入れて頂いていますが、なんとなく�
 ### 参考にした資料
 [Github Copilot拡張](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)  
 [Github Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)  
+[ハッシュを使ったコンテキスト変数](https://dev.classmethod.jp/articles/github-copilot-chat-context-variables/)
+[IDEでGitHub Copilotに質問する](https://docs.github.com/ja/copilot/using-github-copilot/asking-github-copilot-questions-in-your-ide)  
 
 
 
