@@ -9,8 +9,6 @@ VSCodeに拡張機能として入れて頂いていますが、なんとなく�
 
 
 
-## memo
-
 [Github Copilot in VS Codeの動画の中で紹介されてたこと](https://code.visualstudio.com/docs/copilot/overview)
 1. 補完で出てくる候補の文字列は「ゴーストテキスト(GHOST TEXT)」と呼ぶらしい。
 2. copilotが有効になっているかどうかや、無効化の設定についてはＶＳコード下部のアイコンから開けるメニューで調整できる。
@@ -25,9 +23,23 @@ VSCodeに拡張機能として入れて頂いていますが、なんとなく�
 
 
 
-### vscodeで利用できるショートカット
+### memo
+#### copilot chatで使えるキーワード
+プログラミングに関する一般的な質問をしたり、特殊な専門知識を持ち、アクションを実行できる次の参加者とチャットしたりできます。
+
+Participants（パーティシペンツ）
+@workspace - ワークスペースについて質問する
+    /explain - アクティブなエディターのコードの仕組みを説明します
+    /tests - 選択したコードの単体テストを生成する
+    /fix - 選択したコードの問題の修正を提案する
+    /new - 新しいワークスペースのスキャフォールド コード
+    /newNotebook - 新しい Jupyter Notebook を作成する
+@vscode - VS Code に関する質問をする
+    /search - ワークスペース検索のクエリ パラメーターを生成する
+@terminal - ターミナルで何かを行う方法を確認する
+    /explain - ターミナルで何か説明する
+
+#### vscodeで利用できるショートカット
 [利用できるショートカット（公式）](https://docs.github.com/ja/copilot/managing-copilot/configure-personal-settings/configuring-github-copilot-in-your-environment)
 
 ![vscodeで利用できるショートカット](./images/windows-copilot-shortcut.png "vscodeで利用できるショートカット")
-
-### 
